@@ -17,7 +17,7 @@ De jure and De facto segregation have systematically affected the lives of peopl
 
 
 ### Access Full Report
-[Link]()
+[Link](https://github.com/WawNun/LegacyofRedlining-Capstone2022/blob/main/Project%20Report%20Legacy%20of%20Redlining.pdf)
 
 
 
