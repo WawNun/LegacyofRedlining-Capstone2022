@@ -1,5 +1,5 @@
 
-## THE LEGACY OF REDLINING
+# THE LEGACY OF REDLINING
 ## AN INVESTIGATION OF LEAD EXPOSURE IN DRINKING WATER SAMPLES FROM CALIFORNIA PUBLIC SCHOOLS
 
 ## University of Riverside, School of Public Policy 
@@ -23,3 +23,6 @@ De jure and De facto segregation have systematically affected the lives of peopl
 
 ### Access Presentation Slides
 [Link]()
+
+
+### Contact for Data and Analysis 
